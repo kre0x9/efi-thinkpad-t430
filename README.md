@@ -1,0 +1,1 @@
+# efi-thinkpad-t430
